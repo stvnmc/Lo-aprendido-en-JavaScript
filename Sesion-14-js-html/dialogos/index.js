@@ -36,3 +36,5 @@ const lista = [{
     nombre: "Amaia",
     edad: 34
 }]
+
+console.log(lista)
